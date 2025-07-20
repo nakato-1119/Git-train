@@ -1,4 +1,5 @@
 A = 24
 B = 63
-total = A + B
+C = 41
+total = A + B + C
 print(total)
